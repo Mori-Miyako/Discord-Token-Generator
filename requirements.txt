@@ -1,2 +1,0 @@
-requests
-discord_build_info_py
