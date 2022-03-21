@@ -1,29 +1,24 @@
-# Gen-Token-Discord
-Gennarator Token Discord Verified Email and Phone Number
+# GEN-TOKEN-DISCORD
 
 ![s](https://cdn.discordapp.com/attachments/887757784337252413/954385886341111899/gen.png)
 
-# Discord Token Generator
+# INFO
+- This is a Simple Discord Token Generator which creates verified discord accounts 
+- These accounts are good for selling for raiding
+- Uses HCAPTCHA Bypass
 
-## How to Install
+# Requirements 
+- put the hcaptcha.py file inside the project folder, check my hcaptcha bypass repo for the file
+- httpx https://pypi.org/project/httpx/
+- Rotating Proxies
 
-```
-Click Install.bat and waiting!
-```
+# INSTALL
+- click install.bat and wating press any key to continue...
+- add proxies inside "all://": "http://username:pass@ip:port" or "all://": "http://ip:port" depending on your proxies authentication
+- add proxies inside hcaptcha bypass too >  proxy="username:password@ip:port" or proxy="ip:port"
 
-## How to Run
+# USAGE
+- type python main.py or node index.js
+- watig and Enjoin!!
 
-```
-python main.py
-```
-##  or 
-
-```
-node index.js
-```
-
-# Thank you for using my tools
-> You can use it for free!
-
-# **Enjoin with your Token :)**
-
+# Ty for Using my Tool!
