@@ -1,14 +1,3 @@
-/*
-    Discord Token Generator
-    Made by Dollar3795
-
-    Commercial use is not permitted
-
-    https://guildplus.xyz/?c=537
-    https://t.me/DollarNoob
-    https://t.me/distkn
-*/
-
 console.log("")
 console.log("███╗░░░███╗░█████╗░██████╗░██╗  ███╗░░░███╗██╗██╗░░░██╗░█████╗░██╗░░██╗░█████╗░")
 console.log("████╗░████║██╔══██╗██╔══██╗██║  ████╗░████║██║╚██╗░██╔╝██╔══██╗██║░██╔╝██╔══██╗")
