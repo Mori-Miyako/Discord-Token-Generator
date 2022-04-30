@@ -19,6 +19,6 @@
 
 # USAGE
 - type python main.py or node index.js
-- watig and Enjoin!!
+- waiting and Enjoin!!
 
 # Ty for Using my Tool!
